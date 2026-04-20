@@ -15,8 +15,9 @@ Python 3.10+
 hello_agents 多智能体框架
 Pydantic 数据解析
 📦 快速开始
-安装依赖
-bash
+ 安装依赖
+ 
+ bash
 运行
 pip install -r requirements.txt
 配置高德 API Key
